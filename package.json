@@ -1,0 +1,24 @@
+{
+  "name": "officetopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yihaoliu/OfficeToPdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yihaoliu/OfficeToPdf/issues"
+  },
+  "homepage": "https://github.com/yihaoliu/OfficeToPdf#readme",
+  "dependencies": {
+    "node-msoffice-pdf": "^0.0.7",
+    "office-to-pdf": "^4.0.0"
+  }
+}
